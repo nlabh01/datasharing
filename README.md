@@ -1,4 +1,4 @@
-# CLONed from https://github.com/jtleek/datasharing for COurse Project: The Data ScientistÎéÎ÷s Toolbox
+## CLONed "https://github.com/jtleek/datasharing" for Course Project: The Data Scientist's Toolbox
 How to share data with a statistician
 ===========
 
